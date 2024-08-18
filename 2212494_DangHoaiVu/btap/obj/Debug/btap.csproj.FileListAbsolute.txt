@@ -1,0 +1,30 @@
+D:\btap\btap\bin\Debug\btap.exe.config
+D:\btap\btap\bin\Debug\btap.exe
+D:\btap\btap\bin\Debug\btap.pdb
+D:\btap\btap\obj\Debug\btap.csproj.AssemblyReference.cache
+D:\btap\btap\obj\Debug\btap.Form1.resources
+D:\btap\btap\obj\Debug\btap.Properties.Resources.resources
+D:\btap\btap\obj\Debug\btap.csproj.GenerateResource.cache
+D:\btap\btap\obj\Debug\btap.csproj.CoreCompileInputs.cache
+D:\btap\btap\obj\Debug\btap.exe
+D:\btap\btap\obj\Debug\btap.pdb
+C:\Users\Hoai Vu\Documents\Zalo Received Files\2212416_LeVanMinh_BaiTap\btap\bin\Debug\btap.exe.config
+C:\Users\Hoai Vu\Documents\Zalo Received Files\2212416_LeVanMinh_BaiTap\btap\bin\Debug\btap.exe
+C:\Users\Hoai Vu\Documents\Zalo Received Files\2212416_LeVanMinh_BaiTap\btap\bin\Debug\btap.pdb
+C:\Users\Hoai Vu\Documents\Zalo Received Files\2212416_LeVanMinh_BaiTap\btap\obj\Debug\btap.csproj.AssemblyReference.cache
+C:\Users\Hoai Vu\Documents\Zalo Received Files\2212416_LeVanMinh_BaiTap\btap\obj\Debug\btap.Form1.resources
+C:\Users\Hoai Vu\Documents\Zalo Received Files\2212416_LeVanMinh_BaiTap\btap\obj\Debug\btap.Properties.Resources.resources
+C:\Users\Hoai Vu\Documents\Zalo Received Files\2212416_LeVanMinh_BaiTap\btap\obj\Debug\btap.csproj.GenerateResource.cache
+C:\Users\Hoai Vu\Documents\Zalo Received Files\2212416_LeVanMinh_BaiTap\btap\obj\Debug\btap.csproj.CoreCompileInputs.cache
+C:\Users\Hoai Vu\Documents\Zalo Received Files\2212416_LeVanMinh_BaiTap\btap\obj\Debug\btap.exe
+C:\Users\Hoai Vu\Documents\Zalo Received Files\2212416_LeVanMinh_BaiTap\btap\obj\Debug\btap.pdb
+C:\Users\Hoai Vu\Documents\Zalo Received Files\2212494_DangHoaiVu\btap\bin\Debug\btap.exe.config
+C:\Users\Hoai Vu\Documents\Zalo Received Files\2212494_DangHoaiVu\btap\bin\Debug\btap.exe
+C:\Users\Hoai Vu\Documents\Zalo Received Files\2212494_DangHoaiVu\btap\bin\Debug\btap.pdb
+C:\Users\Hoai Vu\Documents\Zalo Received Files\2212494_DangHoaiVu\btap\obj\Debug\btap.csproj.AssemblyReference.cache
+C:\Users\Hoai Vu\Documents\Zalo Received Files\2212494_DangHoaiVu\btap\obj\Debug\btap.Form1.resources
+C:\Users\Hoai Vu\Documents\Zalo Received Files\2212494_DangHoaiVu\btap\obj\Debug\btap.Properties.Resources.resources
+C:\Users\Hoai Vu\Documents\Zalo Received Files\2212494_DangHoaiVu\btap\obj\Debug\btap.csproj.GenerateResource.cache
+C:\Users\Hoai Vu\Documents\Zalo Received Files\2212494_DangHoaiVu\btap\obj\Debug\btap.csproj.CoreCompileInputs.cache
+C:\Users\Hoai Vu\Documents\Zalo Received Files\2212494_DangHoaiVu\btap\obj\Debug\btap.exe
+C:\Users\Hoai Vu\Documents\Zalo Received Files\2212494_DangHoaiVu\btap\obj\Debug\btap.pdb
